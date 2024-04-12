@@ -51,8 +51,6 @@ public class GuestbookController {
 		return guestVo;
 	}
 	
-	
-	
 	//리스트 가져오기
 	//@ResponseBody
 	@GetMapping(value="/api/guests")
